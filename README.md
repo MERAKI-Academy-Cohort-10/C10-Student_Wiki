@@ -24,7 +24,7 @@
 
 > You need to be signed in (on **GitHub**) in order to have access to any Materials on **GitHub**
 
-## Important Rules:link:
+## Important Rules :link:
 
 1. If you are stuck on the same question for more than **10** minutes during the lecture, ask for **HELP DESK** immediately (always read the entire question then ask us), and work on the other question till a **TA** help you.
 2. If you are stuck on the same question more than 2 times during the lecture time, you should skip it and go to the next one (and come back to it after trying and going through all the questions).
@@ -53,7 +53,7 @@
 
 
 
-## Weeks 	:link: 
+## Weeks :link: 
 
 - [Week 01](./Weeks/W01.md)
 - [Week 02](./Weeks/W02.md)
