@@ -12,8 +12,8 @@
 
 | Class | Main Lecture Time | days of the week |
 | ----- | ----------------- | ---------------- |
-| Alpha | **10 AM - 3 PM**  | Sat, Mon, Wed    |
-| Beta  | **7 PM - 12 AM**  | Sat, Mon, Wed    |
+| Alpha | **10 AM - 3 PM**  | Sun, Tue, Thu    |
+| Beta  | **7 PM - 12 AM**  | Sun, Tue, Thu    |
 
 
 ## Official Materials
