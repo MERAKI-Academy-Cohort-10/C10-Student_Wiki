@@ -1,4 +1,4 @@
-# IMPORTANT Information
+# IMPORTANT Information :link:
 
 **cohort_10@meraki-academy.org**: Official Email :e-mail: for anything official, or we ask you about in the contract.
 
@@ -8,7 +8,7 @@
 
 \_If your question wasn’t answered within 48 hours (technical on `#C10_student-technical-questions` OR non-technical to `Class Coordinator` on Slack) send us a message using **WhatsApp**: [**+962787875915**](http://wa.me/962787875915)
 
-## Classes Time [GMT +3]
+## Classes Time [GMT +3] :link:
 
 | Class | Main Lecture Time | days of the week |
 | ----- | ----------------- | ---------------- |
@@ -16,7 +16,7 @@
 | Beta  | **7 PM - 12 AM**  | Sun, Tue, Thu    |
 
 
-## Official Materials
+## Official Materials :link:
 
 - [**C10-Students-Main_Materials**](https://github.com/MERAKI-Academy-Cohort-10/C10-Students_Materials-Phase_1)
 - [**C10-Students-Shared_Solutions**](https://github.com/MERAKI-Academy-Cohort-10/C10-Students_Shared_Solutions)
@@ -24,7 +24,7 @@
 
 > You need to be signed in (on **GitHub**) in order to have access to any Materials on **GitHub**
 
-## Important Rules
+## Important Rules:link:
 
 1. If you are stuck on the same question for more than **10** minutes during the lecture, ask for **HELP DESK** immediately (always read the entire question then ask us), and work on the other question till a **TA** help you.
 2. If you are stuck on the same question more than 2 times during the lecture time, you should skip it and go to the next one (and come back to it after trying and going through all the questions).
@@ -36,7 +36,7 @@
 8. You are not allowed to leave the **Zoom Meeting** before the end of the session.
 9. You are not allowed to send a message to any staff members. If you have any `non-technical` questions send a message to the `Class Coordinator` on Slack and If you have a `technical` question, not during your session time, write a post in `#C10_student-technical-questions` channel, and you will receive an answer in **48 hours**.
 
-## Bank Information
+## Bank Information :link:
 
 | Title                   | Info                               |
 | ----------------------- | ---------------------------------- |
@@ -47,8 +47,14 @@
 | IBAN:                   | **JO87UBSI5800000580152191515101** |
 | SWIFT Code:             | UBSIJOAX                           |
 
-## Weeks
+## Other Wiki :link: 
 
-- [Week 01](./Weeks/Stage_1/W01.md)
-- [Week 02](./Weeks/Stage_1/W02.md)
+- [How To Do Important Steps](./Weeks/Important_Steps.md)
+
+
+
+## Weeks 	:link: 
+
+- [Week 01](./Weeks/W01.md)
+- [Week 02](./Weeks/W02.md)
 
